@@ -32,7 +32,7 @@ It has the following features:
  - Link : https://github.com/shakti1590/text-analyzer
  
 #### Deployment Link:
- - Link :
+ - Link : https://text-analyzer-kappa.vercel.app/
 
 <p align="center">
   Show some :heart: by starring the repository.
