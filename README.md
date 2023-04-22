@@ -21,3 +21,19 @@ It has the following features:
 - Redo action
 - Preview input text
 - Count characters, words, statements, questions
+
+#### Technology Used:
+ - React Js
+ - Java Script
+ - HTML
+ - CSS
+
+#### Source Code:
+ - Link : https://github.com/shakti1590/text-analyzer
+ 
+#### Deployment Link:
+ - Link :
+
+<p align="center">
+  Show some :heart: by starring the repository.
+</p>
