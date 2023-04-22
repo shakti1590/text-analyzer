@@ -1,6 +1,5 @@
-<h3>
-Text Analyzer
-</h3>
+## Text Analyzer
+
 
 It has the following features:
 
